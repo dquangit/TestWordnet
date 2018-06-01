@@ -1,0 +1,250 @@
+00375032|intensification|3.2B|sự tăng cường|action that makes something stronger or more extreme|sự tăng cường|1
+03219373|diuretic_drug, diuretic, water_pill|Case 2|thuốc lợi tiểu,thuốc lợi niệu|any substance that tends to increase the flow of urine, which causes the body to get rid of excess water|thuốc lợi tiểu, thuốc lợi niệu|1
+06705718|hurrah, hooray|Case 1|tiếng hoan hô|a victory cheer; "let's give the team a big hurrah"|tiếng hoan hô|1
+05789344|presumption|Case 3.3.B1|sự chấp thuận|(law) an inference of the truth of a fact from other facts proved or admitted or judicially noticed|gỉa thiết|-1
+03896211|pari-mutuel_machine, totalizer, totaliser, totalizator, totalisator|Case 2|bộ đếm, bộ tổng|computer that registers bets and divides the total amount bet among those who won|máy đếm, bộ đếm cá cược|0
+07645406|baba|Case 2|loại bánh tẩm rượu và nước đường|a small cake leavened with yeast|bánh loại nhỏ tẩm rượu và kem (hoặc nước đường)|1
+14866873|air|Case 3.3.B1|thái độ|once thought to be one of four elements composing the universe (Empedocles)|không khí|-1
+03941274|pig|Case 3.3B|một mẻ kim loại|a crude block of metal (lead or iron) poured from a smelting furnace|mẻ kim loại|1
+07391054|bong|Case 2|tiếng boong phát ra từ chuông lớn|a dull resonant sound as of a bell|tiếng chuông, tiếng như tiếng chuông|0
+10679772|storyteller, fibber, fabricator|Case 2|người nói dối,người bịa chuyện|someone who tells lies|người nói dối|1
+00844658|suckling, lactation|Case 1|sự cho bú|feeding an infant by giving suck at the breast|bú, cho con bú|1
+07380745|stand, standstill, tie-up|Case 3.1B|sự dừng, sự đứng, sự dừng lại, sự đứng lại|an interruption of normal activity|sự bế tắc|-1
+06881632|mi|Case 3.3B|nốt mi|the syllable naming the third (mediant) note of any major scale in solmization|nốt mi|1
+04649226|crankiness, crotchetiness, contrariness, grumpiness|Case 2|sự quái gở,tính kỳ quặc, tính hay gắt gỏng,tính cục cằn|a fussy and eccentric disposition|tính cáu kỉnh, tính khô khan, lập dị|1
+10791207|wayfarer|Case 3.2.B1|người hay đi|a pedestrian who walks from place to place|người đi du lịch bộ|0
+14919340|copal|Case 2|nhựa copan|a brittle aromatic resin used in varnishes|nhựa copal|1
+09860027|baronet, Bart|Case 2|tòng nam tước|a member of the British order of honor; ranks below a baron but above a knight; "since he was a baronet he had to be addressed as Sir Henry Jones, Bart."|tòng tam tước|1
+03844055|objet_d'art, art_object, piece|Case 3.3B|cái việc|a work of art of some artistic value; "this store sells only objets d'art"; "it is not known who created this piece"|vật sưu tập, vật trang trí, tác phẩm nghệ thuật|-1
+03869677|overhand_knot|Case 2|nút thắt thòng lọng,gút thắt thòng lọng|a simple small knot (often used as part of other knots)|nút thắt thòng lọng|1
+03727288|marker|Case 3.3B|người ghi số điểm|some conspicuous object used to distinguish or mark something; "the buoys were markers for the channel"|người đánh dấu, vật đánh dấu|-1
+06548380|translation, interlingual_rendition, rendering, version|Case 3.1A|bản dịch, sự dịch|a written communication in a second language having the same meaning as the written communication in a first language|bản dịch, sự dịch|1
+14796755|banana_oil|Case 2|dầu chuối|a liquid ester derived from amyl alcohol; has the odor of bananas|dầu chuối|1
+01326660|animalcule, animalculum|Case 1|vi động vật|microscopic organism such as an amoeba or paramecium|vi sinh vật, vi động vật|1
+08564445|county|Case 3.3B|hạt|(United States) the largest administrative district within a state; "the county plans to build a new road"|hạt|1
+03294571|enlarger|Case 2|máy phóng|photographic equipment consisting of an optical projector used to enlarge a photograph|máy phóng|1
+14924159|agar, agar-agar|Case 2|aga,thạch trắng|a colloidal extract of algae; used especially in culture media and as a gelling agent in foods|thạch trắng|1
+03412654|fusee, fuzee|Case 3.1B|diêm chống gió, diêm chống gió|a colored flare used as a warning signal by trucks and trains|diêm chống gió, đèn bão|1
+10486325|preservationist|Case 2|người bảo thủ|someone who advocates the preservation of historical sites or endangered species or natural areas|người bảo thủ|1
+02711570|analyzer, analyser|3.2B|dụng cụ phân tích|an instrument that performs analyses|dụng cụ phân tích|1
+13808625|operator|Case 3.3.B1|người điều hành|(mathematics) a symbol or function representing a mathematical operation|toán tử|-1
+14381879|valvulitis|Case 2|chứng viêm van tim|inflammation of a valve (especially of a cardiac valve as a consequence of rheumatic fever)|viêm gan tim|1
+04167908|searchlight|Case 2|đèn pha rọi|a light source with reflectors that projects a beam of light in a particular direction|đèn pha|1
+04389782|tachograph|Case 2|đồng hồ tốc độ|a tachometer that produces a graphical record of its readings; used to record the speed and duration of trips in a motor vehicle|tốc kế|1
+05547087|attic, bean, bonce, noodle, noggin, dome|Case 2|hòn bi to|informal terms for a human head|các thuật ngữ không chính thức chỉ đầu người|-1
+13391388|valuation_reserve, valuation_account, allowance, allowance_account|Case 3.3.B1|sự nhận|a reserve fund created by a charge against profits in order to provide for changes in the value of a company's assets|định giá|-1
+04649615|temper, biliousness, irritability, peevishness, pettishness, snappishness, surliness|Case 2|tính hay gắt gỏng|a disposition to exhibit uncontrolled anger; "his temper was well known to all his employees"|tính hay gắt gỏng|1
+02442881|hand|3.2B|bàn chân trước|terminal part of the forelimb in certain vertebrates (e.g. apes or kangaroos); "the kangaroo's forearms seem undeveloped but the powerful five-fingered hands are skilled at feinting and clouting"- Springfield (Mass.) Union|bàn chân trước (của động vật có xương sống)|1
+14511027|adulteration, debasement|Case 1|sự làm giả|being mixed with extraneous material; the product of adulterating|sự pha trộn, làm giả|1
+02098829|cairn, cairn_terrier|Case 2|chó săn xcôtlân thân thỏ|small rough-haired breed of terrier from Scotland|chó săn Scotland|1
+05971968|individualism|Case 3.3B|chủ nghĩa cá nhân|a belief in the importance of the individual and the virtue of self-reliance and personal independence|chủ nghĩa cá nhân|1
+13018414|basidiomycete, basidiomycetous_fungi|Case 2|nấm đảm|any of various fungi of the subdivision Basidiomycota|nấm thuộc hệ Basidiomycota|-1
+06553811|prohibition|3.2B|luật cấm|a law forbidding the sale of alcoholic beverages; "in 1920 the 18th amendment to the Constitution established prohibition in the US"|luật cấm bán đồ uống có cồn|0
+13740283|last|Case 3.3.B1|một thoáng|a unit of weight equal to 4,000 pounds|đơn vị cân nặng tương đương 4000 punds|-1
+10302542|maiden_aunt|Case 2|bà cô chưa chồng,gái già|an unmarried aunt|cô chưa chồng, gái già|1
+06872106|tone, whole_tone, step, whole_step|3.2B|khoảng cách ngắn|a musical interval of two semitones|tông (trong âm nhạc)|-1
+02969069|carminative|Case 2|thuốc đánh rắm|medication that prevents the formation of gas in the alimentary tract or eases its passing|thuốc đánh rắm|1
+13894356|diameter|Case 3.3B|đường kính|a straight line connecting the center of a circle with two points on its perimeter (or the center of a sphere with two points on its surface)|đường kính|1
+07160898|sitting|3.2A|buổi họp|a session as of a legislature or court|buổi họp pháp, buổi họp quan tòa|0
+08531106|center, centre|Case 1|khung bán nguyệt, trung ương, mẫu, trung phong, dưỡng, trung khu, phái giữa, trung tâm, khung tò vò, nhân vật trung tâm, điểm giữa, đạo trung quân|a place where some particular activity is concentrated; "they received messages from several centers"|trung tâm|0
+05308571|tongue, lingua, glossa, clapper|Case 2|lưỡi,bộ phận hình lưỡi|a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity|lưỡi|1
+04830262|noise|Case 3.3.B1|tiếng|incomprehensibility resulting from irrelevant information or meaningless facts or remarks; "all the noise in his speech concealed the fact that he didn't have anything to say"|sự ồn ào|-1
+45123|canto|Case 3.3.B1|khúc|the highest part (usually the melody) in a piece of choral music|điệp khúc|-1
+05800200|possible|3.2A|sự có thể|something that can be done; "politics is the art of the possible"|có khả năng, có thể|1
+03765845|microprocessor|Case 2|bộ vi xử lý|integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system; "a microprocessor functions as the central processing unit of a microcomputer"; "a disk drive contains a microprocessor to handle the internal functions of the drive"|vi xử lý|1
+07763927|mandarin, mandarin_orange|Case 1|quả quít|a somewhat flat reddish-orange loose skinned citrus of China|quả quít|1
+04756794|distinction|3.2B|dấu hiệu đặc biệt|a distinguishing difference between similar things or people; "he learned the distinction between gold and lead"|tính khác nhau|0
+09264835|chap|3.2B|chỗ nứt nẻ|a crack in a lip caused usually by cold|chỗ môi bị nứt nẻ (do lạnh)|-1
+04027011|pull-in, pull-up|Case 3.1B|nơi đổ xe, nơi đỗ xe|a roadside cafe especially for lorry drivers|nơi đỗ xe|1
+00578562|service|3.2A|việc làm|work done by one person or group that benefits another; "budget separately for goods and services"|dịch vụ|-1
+00706572|hypnoanalysis|Case 2|phép phân tích bằng thôi miên|the use of hypnosis in conjunction with psychoanalysis|phương pháp thôi miên sử dụng phân tâm học|1
+13550055|ossification|Case 3.3.B1|sự cứng nhắc|the process of becoming rigidly fixed in a conventional pattern of thought or behavior|sự hóa đá|-1
+06896615|spread_eagle|Case 3.3B|hình đại bàng giang cánh|an emblem (an eagle with wings and legs spread) on the obverse of the Great Seal of the United States|hình đại bàng giang cánh|1
+14609699|atom, molecule, particle, corpuscle, mote, speck|Case 2|bụi,hạt bụi|(nontechnical usage) a tiny piece of anything|vật rất nhỏ, mảnh rất nhỏ|-1
+04837333|inhumaneness, inhumanity|3.2B|điều tàn bạo, tính tàn bạo|the quality of lacking compassion or consideration for others|vô nhân tính|0
+03802786|mufti|Case 3.3B|quần áo thường|civilian dress worn by a person who is entitled to wear a military uniform|quần áo thường|1
+06219154|vanguard, forefront, cutting_edge|Case 3.1A|hàng đầu|the position of greatest importance or advancement; the leading position in any movement or field; "the Cotswolds were once at the forefront of woollen manufacturing in England"; "the idea of motion was always to the forefront of his mind and central to his philosophy"|hàng đầu|1
+13292117|soft_money|Case 2|tiền giấy|political contributions made in such a way as to avoid the United States regulations for federal election campaigns (as by contributions to a political action committee)|tiền đóng góp cho một đảng phải chính trị|-1
+12350986|myrtle|Case 3.3B|cây mía|any evergreen shrub or tree of the genus Myrtus|cây sim, cây thuộc họ Myrtus|-1
+04750006|otherness, distinctness, separateness|Case 3.1B|tính riêng biệt, tính chất riêng biệt|the quality of being not alike; being distinct or different from that otherwise experienced or known|tính riêng biệt|1
+07441173|reversion|Case 3.3A|sự trở lại|(genetics) a return to a normal phenotype (usually resulting from a second mutation)|sự trở lại bình thường|0
+10349658|monster, fiend, devil, demon, ogre|Case 3.1A|ma quỷ, người hung ác|a cruel wicked and inhuman person|ma quỷ, người hung ác|1
+14066574|mountain_sickness|Case 2|chứng say núi|nausea and shortness of breath experienced by mountain climbers above ten thousand feet|chứng say núi|1
+08265668|string_orchestra|Case 2|ban nhạc dây,dàn nhạc dây|an orchestra playing only stringed instruments|ban nhạc dây, dàn nhạc dây|1
+01141957|name|Case 3.3.B1|người có uy tín lớn|by the sanction or authority of; "halt in the name of the law"|ủy quyền|-1
+14786937|horsehide|Case 2|da ngựa|leather from the hide of a horse|da ngựa|1
+14583952|unsoundness|3.2B|tình trạng xấu|a condition of damage or decay|tình trạng hư hỏng|0
+07734217|cucumber, cuke|3.2B|quả dưa chuột, cây dưa chuột|cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons|quả dưa chuột|1
+02399079|wild_boar, boar, Sus_scrofa|Case 2|lợn rừng|Old World wild swine having a narrow body and prominent tusks from which most domestic swine come; introduced in United States|lợn hoang dã|0
+09413982|photoelectron|Case 2|quang điện tử|an electron that is emitted from an atom or molecule by an incident photon|quang điện tử|1
+05813285|prevision, foresight, farsightedness, prospicience|Case 3.1A|sự thấy trước|seeing ahead; knowing in advance; foreseeing|thấy trước, biết trước, dự đoán trước|0
+07771065|cocoa|Case 3.3B|bột cacao|powder of ground roasted cacao beans with most of the fat removed|bột ca cao|1
+07022924|scene|Case 3.3.B1|khoá|a subdivision of an act of a play; "the first act has three scenes"|đoạn|-1
+04147696|sawhorse, horse, sawbuck, buck|3.2B|cái giá đỡ|a framework for holding wood that is being sawed|ngựa đỡ gỗ, giá đỡ gỗ|0
+05842007|grief, sorrow|Case 1|nỗi đau buồn|something that causes great unhappiness; "her death was a great grief to John"|nỗi đau buồn|1
+00446040|surfing, surfboarding, surfriding|Case 2|môn lướt sóng, sự lướt sóng|the sport of riding a surfboard toward the shore on the crest of a wave|môn lướt sóng|1
+06412153|excerpt, excerption, extract, selection|Case 2|phần trích,đoạn trích|a passage selected from a larger work; "he presented excerpts from William James' philosophical writings"|phần trích, đoạn trích|1
+13484859|destalinization, de-Stalinization, destalinisation, de-Stalinisation|Case 2|việc phi xtalin hoá|social process of neutralizing the influence of Joseph Stalin by revising his policies and removing monuments dedicated to him and renaming places named in his honor; "his statue was demolished as part of destalinization"|việc phi Stalin hóa|1
+00782543|larceny, theft, thievery, thieving, stealing|Case 2|sự ăn trộm, sự ăn cắp|the act of taking something from someone unlawfully; "the thieving is awful at Kennedy International"|sự ăn trộm, hành động ăn trộm|1
+05638859|limbo|Case 3.3B|nhà tù|an imaginary place for lost or neglected things|âm phủ|-1
+13520596|inflationary_spiral|Case 2|xoắn trôn ốc lạm phát|an episode of inflation in which prices and wages increase at an increasing rate and currency rapidly loses value|xoắn trôn ốc lạm phát|1
+07501768|longing, yearning, hungriness|Case 2|niềm khát khao,lòng ham muốn mãnh liệt, sự khao khát,sự mong mỏi,sự ao ước|prolonged unfulfilled desire or need|sự khao khát mãnh liệt|1
+09529348|daemon, demigod|3.2B|á thần|a person who is part mortal and part god|á thần|1
+04994132|tone|3.2A|mức độ|(linguistics) a pitch or change in pitch of the voice that serves to distinguish words in tonal languages; "the Beijing dialect uses four tones"|giọng|-1
+11438574|luck, fortune|Case 1|vận, vận may|an unknown and unpredictable phenomenon that leads to a favorable outcome; "it was my good luck to be there"; "they say luck is a lady"; "it was as if fortune guided his hand"|may mắn, vận may|1
+05716379|perception|3.2B|sự nhận thức|the process of perceiving|sự nhận thức|1
+01582718|jay|Case 3.3.B1|anh chàng ngốc|crested largely blue bird|chim xanh|-1
+00443055|swimming, swim|Case 2|sự bơi|the act of swimming; "it was the swimming they enjoyed most"; "they took a short swim in the pool"|sự bơi|1
+00135211|swat|Case 2|cú đập mạnh|a sharp blow|một đòn mạnh|0
+00810428|freeze|3.2A|sự hạn định|fixing (of prices or wages etc) at a particular level; "a freeze on hiring"|sự điều chỉnh giá hoặc tiền lương tới mức cụ thể|-1
+14086957|cryptobiosis|Case 2|trạng thái ẩn sinh|a state in which an animal's metabolic activities come to a reversible standstill|trạng thái ẩn|1
+13601136|octane_number, octane_rating|Case 2|tỷ lệ octan, tỷ số octane|a measure of the antiknock properties of gasoline|tỷ lệ octan|1
+08484269|expressionism|Case 2|chủ nghĩa biểu hiện|an art movement early in the 20th century; the artist's subjective expression of inner experiences was emphasized; an inner feeling was expressed through a distorted rendition of reality|chủ nghĩa biểu hiện|1
+07671235|side, side_of_meat|Case 3.3A|sườn|a lengthwise dressed half of an animal's carcass used for food|sườn|1
+04394348|tambour, embroidery_frame, embroidery_hoop|Case 2|khung thêu|a frame made of two hoops; used for embroidering|khung thêu|1
+03977242|ply|3.2A|lớp, lớp|(usually in combinations) one of several layers of cloth or paper or wood as in plywood|sự phân lớp, lớp|1
+07450700|jet, squirt, spurt, spirt|Case 3.1A|tia|the occurrence of a sudden discharge (as of liquid)|tia|1
+02990834|cavalier_hat, slouch_hat|Case 2|mũ mềm,vành rộng bẻ cong xuống|a soft felt hat with a wide flexible brim|mũ mềm,vành rộng bẻ cong xuống|1
+06482913|capitulation|Case 3.3A|điều kiện, sự đầu hàng|a document containing the terms of surrender|điều kiện đầu hàng|0
+00092224|staging|Case 3.3B|giàn tạm|getting rid of a stage of a multistage rocket|giàn dựng|0
+13394599|gold_standard|3.2B|kim bản vị|a monetary standard under which the basic unit of currency is defined by a stated quantity of gold|kim bản vị|1
+14028443|tremolo|Case 3.3B|giọng vê|(music) a tremulous effect produced by rapid repetition of a single tone or rapid alternation of two tones|giọng vê|1
+01160044|disarming, disarmament|Case 2|làm nguôi giận, sự giảm quân bị,sự giải trừ quân bị|act of reducing or depriving of arms; "the disarmament of the aggressor nations must be complete"|giải giáp, tước khí giới|1
+14375568|ozena, ozaena|Case 2|viêm mũi teo hôi|a chronic disease of the nose characterized by a foul-smelling nasal discharge and atrophy of nasal structures|viêm mũi teo hôi|1
+00605638|stewardship|3.2B|cương vị quản gia, cương vị quản lý|the position of steward|vị trí quản lý|0
+05950141|belief|3.2A|sự tin tưởng, sự tin tưởng, sự tin tưởng, lòng tin, sự tin tưởng|any cognitive content held as true|sự tin tưởng|1
+00053611|forced_landing, emergency_landing|Case 2|sự hạ cánh khẩn cấp|an unscheduled airplane landing that is made under circumstances (engine failure or adverse weather) not under the pilot's control|hạ cánh khẩn cấp|1
+04018203|propeller, propellor|Case 2|chân vịt,cánh quạt|a mechanical device that rotates to push against air or water|chân vịt, cánh quạt|1
+13118097|cambium|Case 3.3.B1|thượng tầng|a formative one-cell layer of tissue between xylem and phloem in most vascular plants that is responsible for secondary growth|một lớp mô tế bào hình thành giữa xylem và phloem|-1
+07963437|enemy|Case 3.3B|kẻ thù|any hostile group of people; "he viewed lawyers as the real enemy"|kẻ thù|1
+10488547|president, chairman, chairwoman, chair, chairperson|Case 2|nữ chủ tịch, chủ tịch|the officer who presides at the meetings of an organization; "address your remarks to the chairperson"|chủ tịch|0
+04832050|inexplicitness|Case 2|tính không rõ ràng,tính mơ hồ|unclearness by virtue of not being explicit|sự không rõ ràng|1
+14271057|hemangioma, haemangioma|Case 2|u mỡ|benign angioma consisting of a mass of blood vessels; some appear as birthmarks|u máu lành tính|1
+03678920|liniment, embrocation|Case 2|dầu xoa bóp, nước chườm,nước rưới|a medicinal liquid that is rubbed into the skin to relieve muscular stiffness and pain|dầu xoa bóp, nước chờm|1
+06688724|well, wellspring, fountainhead|3.2A|nguồn|an abundant source; "she was a well of information"|nguồn|1
+07638317|pastry|Case 3.3A|bột nhão|any of various baked foods made of dough or batter|bánh làm từ bột nướng|-1
+07606182|hot_pot, hotpot|Case 2|thịt hầm với khoai tây|a stew of meat and potatoes cooked in a tightly covered pot|thịt hầm khoai tây|1
+14224793|rickets, rachitis|Case 1|bệnh còi xương|childhood disease caused by deficiency of vitamin D and sunlight associated with impaired metabolism of calcium and phosphorus|bênh còi xương|1
+08599425|heartland|Case 2|khu trung tâm|the central region of a country or continent; especially a region that is important to a country or to a culture|khu trung tâm|1
+01207831|collaboration, collaborationism, quislingism|Case 2|sự cộng tác với địch|act of cooperating traitorously with an enemy that is occupying your country|sự cộng tác với địch|1
+13329454|bus_fare, carfare|Case 2|tiền vé|the fare charged for riding a bus or streetcar|tiền vé|1
+06433181|hornbook|Case 2|luận đề thô sơ|a primer that provides instruction in the rudiments or basic skills of a branch of knowledge|luận đề thô sơ|1
+13896000|oblong|Case 3.3B|hình thuôn|a plane figure that deviates from a square or circle due to elongation|hình thuôn|1
+14472871|lack, deficiency, want|Case 2|sự thiếu|the state of needing something that is absent or unavailable; "there is a serious lack of insight into the problem"; "water is the critical deficiency in desert regions"; "for want of a nail the shoe was lost"|sự thiếu|1
+04762473|incontrovertibility, incontrovertibleness, positivity, positiveness|Case 2|tính không thể bàn cãi,tính không thể chối cãi|the quality of being undeniable and not worth arguing about|tính không thể bàn cãi|1
+14682288|thorium, Th, atomic_number_90|Case 2|thori|a soft silvery-white tetravalent radioactive metallic element; isotope 232 is used as a power source in nuclear reactors; occurs in thorite and in monazite sands|thori|1
+05808619|probe, investigation|Case 3.1B|sự điều tra, sự điều tra nghiên cứu|an inquiry into unfamiliar or questionable activities; "there was a congressional probe into the scandal"|sự điều tra, sự điều tra nghiên cứu|1
+00743318|misfeasance|Case 2|sự làm sai,sự lạm quyền|doing a proper act in a wrongful or injurious manner|sự lạm quyền|1
+12694881|honeysuckle|3.2A|cây kim ngân|shrub or vine of the genus Lonicera|cây kim ngân hoa|1
+01001729|adjustment, registration, readjustment|Case 3.1A|sự sửa lại cho đúng|the act of adjusting something to match a standard|sửa lại đúng theo chuẩn|1
+04222469|sidewalk, pavement|Case 1|vỉa hè|walk consisting of a paved area for pedestrians; usually beside a street or roadway|vỉa hè|1
+00920197|gardening, horticulture|Case 1|nghề làm vườn|the cultivation of plants|nghề làm vườn|1
+13417070|dollar, dollar_bill, one_dollar_bill, buck, clam|Case 3.1A|đồng đô la|a piece of paper money worth one dollar|đồng đô la|1
+14001613|stir, splash|3.2A|sự om sòm|a prominent or sensational but short-lived news event; "he made a great splash and then disappeared"|Giật gân|0
+10428069|patron|Case 3.2.B1|người chủ trương|the proprietor of an inn|chủ trọ|0
+04106523|rocket, projectile|3.2A|tên lửa, vật phóng ra|any vehicle self-propelled by a rocket engine|Xe phản lực|-1
+02424438|dik-dik|Case 2|sơn dương nhỏ đông phi|any of several small antelopes of eastern Africa of the genus Madoqua; the size of a large rabbit|sơn dương nhỏ đông phi|1
+00572481|baseball_swing, swing, cut|3.2B|cú xuynh|in baseball; a batter's attempt to hit a pitched ball; "he took a vicious cut at the ball"|cú xuynh|1
+02117748|jackal, Canis_aureus|Case 2|chó rừng|Old World nocturnal canine mammal closely related to the dog; smaller than a wolf; sometimes hunts in a pack but usually singly or as a member of a pair|chó rừng|1
+10094127|exterminator, terminator, eradicator|Case 2|người triệt,người tiêu diệt,người huỷ diệt, người nhổ rễ,người bài trừ|someone who exterminates (especially someone whose occupation is the extermination of troublesome rodents and insects)|người tiêu diệt|1
+14372851|leptomeningitis|Case 2|viêm màng não mềm|inflammation of the leptomeninges|viêm màng não mềm|1
+03367485|fleece|Case 3.3.B1|đống tuyết|a soft bulky fabric with deep pile; used chiefly for clothing|vải mềm|-1
+07474344|criterium, crit|Case 2|cuộc đua xe đạp gồm nhiều chặng|a bicycle race held on a short course (usually less than 5 km or 3 miles)|cuộc đua xe đạp nhiều chặng|1
+06117686|uncertainty_principle, indeterminacy_principle|Case 2|xem uncertainty principle|(quantum theory) the theory that it is impossible to measure both energy and time (or position and momentum) completely accurately at the same time|xem uncertainty principle|1
+07176392|marriage_proposal, proposal_of_marriage, marriage_offer, proposal|3.2A|sự đề nghị|an offer of marriage|sự đề nghị|1
+04282104|sphygmomanometer|Case 2|máy đo huyết áp|a pressure gauge for measuring blood pressure|máy đo huyết áp|1
+05816565|linguistic_process, language|3.2B|cách diễn đạt|the cognitive processes involved in producing and understanding linguistic communication; "he didn't have the language to express his feelings"|sự diễn đạt|1
+00848447|penetration|Case 3.3B|tầm xuyên qua, sự xuyên qua|the act (by a man) of inserting his penis into the vagina of a woman|nghĩa bậy|-1
+00188348|own_goal|Case 2|bàn ghi vào lưới nhà|(soccer) a goal that results when a player inadvertently knocks the ball into the goal he is defending; "the own goal cost them the game"|phản lưới nhà|1
+07677901|round|Case 3.3.B1|luân khúc|a cut of beef between the rump and the lower leg|phần thịt đùi|-1
+13411213|dime|3.2B|tiền|a United States coin worth one tenth of a dollar|Đồng xu|0
+14626007|amino_acid, aminoalkanoic_acid|Case 2|axit amin|organic compounds containing an amino group and a carboxylic acid group; "proteins are composed of various proportions of about 20 common amino acids"|axit amin|1
+05218312|humor, humour|Case 1|ý thiên về, sự hóm hỉnh, ý thích, thể dịch, sự hài hước, tính khí, tâm trạng, dịch|the quality of being funny; "I fail to see the humor in it"|ý thiên về, sự hóm hỉnh, ý thích, thể dịch, sự hài hước|1
+02950393|can, tin, tin_can|Case 3.1B|hộp đồ hộp, hộp|airtight sealed metal container for food or drink or paint etc.|hộp, đồ hộp|1
+01135185|obedience, respect|Case 3.3.B1|sự chấp thuận|behavior intended to please your parents; "their children were never very strong on obedience"; "he went to law school out of respect for his father's wishes"|sự vâng lời|-1
+14045991|ankylosis, anchylosis|Case 2|chứng cứng liền khớp, bệnh cứng khớp|abnormal adhesion and rigidity of the bones of a joint|chứng liền khớp|1
+14245834|acne_rosacea, rosacea|Case 2|trứng cá đỏ|a skin disease of adults (more often women) in which blood vessels of the face enlarge resulting in a flushed appearance|trứng cá đỏ, bênh rosacea|1
+00846655|defloration|Case 3.3B|sự phá trinh|the act of depriving a woman of her virginity (especially by rupturing the hymen through sexual intercourse)|sự phá trinh|1
+08014145|class, category, family|Case 3.1A|hạng, loại|a collection of things sharing a common attribute; "there are two classes of detergents"|lớp|0
+13584850|suppression|Case 3.3.B1|sự tàn phá|the failure to develop some part or organ|Sự đàn áp|-1
+08597308|green, putting_green, putting_surface|Case 3.3B|thảm cỏ xanh, cây cỏ, bãi cỏ xanh|an area of closely cropped grass surrounding the hole on a golf course; "the ball rolled across the green and into the bunker"|thảm cỏ xanh, cây cỏ, bãi cỏ xanh|1
+02155643|game|Case 3.3.B1|cuộc thi điền kinh|animal hunted for food or sport|SỰ săn bắt thú|-1
+11499458|magnetism, magnetic_attraction, magnetic_force|Case 2|từ lực,lực từ|attraction for iron; associated with electric currents as well as magnets; characterized by fields of force|từ, lực từ|1
+04825154|ostentation, ostentatiousness, pomposity, pompousness, pretentiousness, puffiness, splashiness, inflation|Case 2|sự khoe khoang,sự phô trương|lack of elegance as a consequence of being pompous and puffed up with vanity|sự kiêu ngạo|-1
+03520118|heparin, Lipo-Hepin, Liquaemin|Case 2|hêparin|a polysaccharide produced in basophils (especially in the lung and liver) and that inhibits the activity of thrombin in coagulation of the blood; it (trade names Lipo-Hepin and Liquaemin) is used as an anticoagulant in the treatment of thrombosis and in heart surgery|hêparin|1
+14468845|comfort, comfortableness|Case 3.1B|sự tiện nghi, tiện nghi|a state of being relaxed and feeling no pain; "he is a man who enjoys his comfort"; "she longed for the comfortableness of her armchair"|sự thoải mái|1
+05698074|obstacle, obstruction|Case 3.1B|sự cản trở trái phép, sự cản trở|something immaterial that stands in the way and must be circumvented or surmounted; "lack of imagination is an obstacle to one's advancement"; "the poverty of a district is an obstacle to good education"; "the filibuster was a major obstruction to the success of their plan"|sự cản trở trái phép, sự cản trở|1
+03841373|nunnery|Case 2|nữ tu viện|the convent of a community of nuns|tu viện|-1
+10754051|twin|Case 3.3.B1|cái giống nhau|either of two offspring born at the same time from the same pregnancy|sinh đôi|0
+04051796|radio_telescope, radio_reflector|Case 2|máy viễn vọng vô tuyến|astronomical telescope that picks up electromagnetic radiations in the radio-frequency range from extraterrestrial sources|máy viễn vọng vô tuyến|1
+03375233|fluorescent_lamp|Case 2|đèn huỳnh quang,đèn ống,đèn nê-ông|lamp consisting of a tube coated on the inside with a fluorescent material; mercury vapor in the tube emits ultraviolet radiation that is converted to visible radiation by the fluorescent material|đèn huỳnh quang,đèn ống,đèn nê-ông|1
+11912498|Malcolm_stock, stock|Case 3.3.B1|dòng họ gia đình|any of various ornamental flowering plants of the genus Malcolmia|hoa thuộc họ Malcolmia|-1
+04334963|stopper|Case 3.3.B1|nút chai|(bridge) a playing card with a value sufficiently high to insure taking a trick in a particular suit; "if my partner has a spade stopper I can bid no trump"|thẻ bài stopper|-1
+02774171|backstairs|3.2B|cầu thang sau|a second staircase at the rear of a building|cầu thang sau|1
+10297335|lutist, lutanist, lutenist|Case 2|người chơi đàn luýt|a musician who plays the lute|người chơi đàn lute|1
+07067129|round, troll|Case 3.3.B1|chu kỳ|a partsong in which voices follow each other; one voice starts and others join in one after another until all are singing different parts of the song at the same time; "they enjoyed singing rounds"|hợp ca|-1
+10710144|tanker, tank_driver|Case 3.3.B1|xe bồn|a soldier who drives a tank|lính xe tăng|-1
+11562588|sphagnum, sphagnum_moss, peat_moss, bog_moss|Case 2|rêu nước|any of various pale or ashy mosses of the genus Sphagnum whose decomposed remains form peat|rêu tan bùn|0
+00327635|rappel, abseil|Case 2|lệnh tập hợp, sự tụt xuống núi bằng dây|(mountaineering) a descent of a vertical cliff or wall made by using a doubled rope that is fixed to a higher point and wrapped around the body|sự tụt xuống núi bằng dây|1
+02857637|blockhouse|Case 2|lô cốt|a stronghold that is reinforced for protection from enemy fire; with apertures for defensive fire|lô cốt|1
+05997383|dark, darkness|Case 1|bóng tối|an unenlightened state; "he was in the dark concerning their intentions"; "his lectures dispelled the darkness"|bóng tối|1
+12217876|kola, kola_nut, kola_nut_tree, goora_nut, Cola_acuminata|Case 3.1B|hạt cây côla, cây côla|tree bearing large brown nuts containing e.g. caffeine; source of cola extract|hạt cây côla, cây côla|1
+04080537|release, button|Case 3.3.B1|sự tách ra|a device that when pressed will release part of a mechanism|thả khi đang giữ nút|-1
+02455268|snout, neb|Case 1|mõm, mũi|a long projecting or anterior elongation of an animal's head; especially the nose|mõm, mũi|1
+13591439|transport|Case 3.3.B1|sự cảm kích mạnh mẽ|an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes|sự trao đổi các phân tử|-1
+03499831|harness|3.2B|bộ yên cương|stable gear consisting of an arrangement of leather straps fitted to a draft animal so that it can be attached to and pull a cart|bộ yên cương|1
+01049262|revival, resurgence, revitalization, revitalisation, revivification|Case 2|sự tái sinh|bringing again into activity and prominence; "the revival of trade"; "a revival of a neglected play by Moliere"; "the Gothic revival in architecture"|sự tái sinh|1
+00211646|finale, close, closing_curtain, finis|Case 3.1A|sự kết thúc|the concluding part of any performance|sự kết thúc|1
+00663770|correction|3.2B|sự trừng trị|treatment of a specific defect; "the correction of his vision with eye glasses"|sự điều trị|-1
+01396127|globigerina|Case 2|trùng chùm cầu|marine protozoan having a rounded shell with spiny processes|trùng chùm cầu|1
+00150715|spot_welding, spot-welding|Case 2|hàn điểm|creating an overlapping joint by welding at small points|hàn điểm|1
+13745039|microgram, mcg|Case 2|micrôgram|one millionth (1/1,000,000) gram|micrôgram|1
+03794704|motion-picture_camera, movie_camera, cine-camera|Case 2|máy quay phim|a camera that takes a sequence of photographs that can give the illusion of motion when viewed in rapid succession|máy quay phim|1
+00448525|wrestling, rassling, grappling|3.2B|môn đấu vật|the sport of hand-to-hand struggle between unarmed contestants who try to throw each other down|môn đấu vật|1
+14025337|subordination|3.2B|sự lệ thuộc|the state of being subordinate to something|sự lệ thuộc|1
+06380585|novelette, novella|Case 1|tiểu thuyết ngắn|a short novel|tiểu thuyết ngắn|1
+08256729|class, division|Case 3.3A|hạng, loại|a league ranked by quality; "he played baseball in class D for two years"; "Princeton is in the NCAA Division 1-AA"|bảng, hạng|0
+09947594|cleric, churchman, divine, ecclesiastic|Case 2|tu sĩ|a clergyman or other person in religious orders|tu sĩ|1
+09923092|censor|Case 3.3.B1|giám thị|a person who is authorized to read publications or correspondence or to watch theatrical performances and suppress in whole or in part anything considered obscene or politically unacceptable|thanh tra|0
+14789676|mink|3.2B|bộ da lông chồn vizon|the expensive fur of a mink|da lông chồn|1
+07504688|libido|Case 3.3.B1|sự mạnh mẽ|(psychoanalysis) a Freudian term for sexual urge or desire|lời thỉnh cầu|-1
+07095369|parlance, idiom|Case 2|cách nói,lối nói|a manner of speaking that is natural to native speakers of a language|cách nói,lối nói|1
+06233395|theism|3.2B|thuyết hữu thần|the doctrine or belief in the existence of a God or gods|chủ nghĩa thần học|1
+03594500|jack, jackstones|Case 3.3B|nhân viên|game equipment consisting of one of several small six-pointed metal pieces that are picked up while bouncing a ball in the game of jacks|một loại thiết bị chơi game|-1
+06497998|batting_order, card, lineup|Case 3.3.B1|phiến|(baseball) a list of batters in the order in which they will bat; "the managers presented their cards to the umpire at home plate"|Chiến thuật di chuyển|-1
+02973345|carrier|3.2B|giá đỡ|a rack attached to a vehicle; for carrying luggage or skis or the like|giá đỡ|1
+00859053|lesbianism, sapphism|Case 2|thói đồng dục nữ, sự đồng dâm nữ|female homosexuality|đồng tính nữ|1
+01190110|naturalization, naturalisation|Case 1|sự nhập tịch|the proceeding whereby a foreigner is granted citizenship|sự nhập tịch|1
+04032142|purgative, cathartic, physic, aperient|Case 2|thuốc tẩy,thuốc xổ, thuốc tẩy nhẹ, thuốc nhuận tràng|a purging medicine; stimulates evacuation of the bowels|thuốc tẩy,thuốc xổ, thuốc tẩy nhẹ, thuốc nhuận tràng|1
+07021796|fragment|3.2A|mảnh, mảnh|an incomplete piece; "fragments of a play"|mảnh|1
+02852657|blanket|3.2B|lớp phủ|a layer of lead surrounding the highly reactive core of a nuclear reactor|lớp phủ|1
+04375322|swage_block|Case 2|đe định hình|an iron block cut with holes and grooves to assist in cold working metal|đe định hình|1
+03877306|packet|3.2B|gói nhỏ|a small package or bundle|gói nhỏ|1
+03264909|dye-works|Case 2|xưởng nhuộm|a workshop where dyeing is done|xưởng nhuộm|1
+10315837|marshal, marshall|3.2A|thống chế|(in some countries) a military officer of highest rank|thống tướng|1
+10740613|trade_unionist, unionist, union_member|3.2B|thành viên của công đoàn|a worker who belongs to a trade union|thành viên công đoàn|1
+06258491|graphology|Case 2|thuật xem tướng chữ|the study of handwriting (especially as an indicator of the writer's character or disposition)|thuật xem tướng chữ|1
+14144758|hypothyroidism|Case 2|sự giảm hoạt động của tuyến giáp|an underactive thyroid gland; a glandular disorder resulting from insufficient production of thyroid hormones|suy giáp|1
+05455833|erythroblast|Case 2|nguyên hồng cầu|a nucleated cell in bone marrow from which red blood cells develop|nguyên hồng cầu|1
+10324450|mechanist|Case 2|người theo thuyết cơ giới|a philosopher who subscribes to the doctrine of mechanism|người theo thuyết cơ giới|1
+14390746|elephantiasis|Case 2|chứng phù voi|hypertrophy of certain body parts (usually legs and scrotum); the end state of the disease filariasis|chứng phù voi|1
+06899868|profiling|Case 2|sự gia công định hình,sự chép hình|recording a person's behavior and analyzing psychological characteristics in order to predict or assess their ability in a certain sphere or to identify a particular group of people|sự gia công định hình,sự chép hình|1
+13639461|last|Case 3.3.B1|khả năng tiếp tục|a unit of capacity for grain equal to 80 bushels|đơn vị đo giới hạn 80 giạ|-1
+04797125|nutritiousness, nutritiveness|Case 2|tính chất bổ,sự có chất dinh dưỡng|the quality of being nourishing and promoting healthy growth|tính bổ dưỡng|1
+08427239|public_school|3.2B|trường công|a tuition free school in the United States supported by taxes and controlled by a school board|trường công|1
+14294982|ketonuria, ketoaciduria, acetonuria|Case 2|ketone-niệu, acetonuria niệu|excessive amounts of ketone bodies in the urine as in diabetes mellitus or starvation|ketone-niệu, acetonuria niệu|1
+08239492|readership|Case 2|địa vị phó giáo sư,chức phó giáo sư|the audience reached by written communications (books or magazines or newspapers etc.)|độc giả|-1
+03497188|hansom, hansom_cab|Case 2|xe ngựa hai bánh|a two-wheeled horse-drawn covered carriage with the driver's seat above and behind the passengers|xe ngựa 2 bánh|1
+00384414|separation|3.2A|sự phân ly|the act of dividing or disconnecting|sự phân ly|1
+04821256|jauntiness, nattiness, dapperness, rakishness|Case 2|tính mẫn tiệp,tính hoạt bát|stylishness as evidenced by a smart appearance|tính mẫn tiệp,tính hoạt bát|1
+13544864|nutrition|Case 3.3A|dinh dưỡng|(physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance|dinh dưỡng|1
+06071775|proctology|Case 2|khoa ruột thẳng,hậu môn|the branch of medicine dealing with the diagnosis and treatment of disorders of the colon or rectum or anus|khoa ruột thẳng,hậu môn|1
+04288108|spit|3.2A|cái xiên|a skewer for holding meat over a fire|xiên nướng thịt|0
+08498380|pool|Case 3.3.B1|bể bơi|an organization of people or resources that can be shared; "a car pool"; "a secretarial pool"; "when he was first hired he was assigned to the pool"|Công cộng|-1
+07974810|flush|Case 3.3.B1|sự có nhiều|a poker hand with all 5 cards in the same suit|bài poker|-1
+02132960|cheetah, chetah, Acinonyx_jubatus|Case 2|loài báo gêpa|long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be trained to run down game|báo gepa|1
+00628436|snatch|Case 3.3.B1|sự bắt đi|a weightlift in which the barbell is lifted overhead in one rapid motion|sự tăng nhanh của trọng lượng từ sàn lên trên đầu trong một chuyển động|-1
+10779488|votary|Case 3.3.B1|người yêu|a devoted (almost religiously so) adherent of a cause or person or activity; "the cultured votary of science"|Người hâm mộ|0
+04557962|wardroom|Case 2|chỗ trên một tàu chiến,trừ sĩ quan chỉ huy|military quarters for dining and recreation for officers of a warship (except the captain)|phòng ăn trên tàu do các thuyền viên (trừ thuyền trưởng)|-1
+09875673|biophysicist|Case 2|nhà lý sinh|a physicist who applies the methods of physics to biology|nhà lý sinh|1
+06598647|link|Case 3.3.B1|vòng xích|(computing) an instruction that connects one part of a program or an element on a list to another program or list|liên kết|-1
